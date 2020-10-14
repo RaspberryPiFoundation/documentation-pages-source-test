@@ -1,0 +1,18 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "This application hosts static content for https://www.raspberrypi.org/documentation/ & https://www.raspberrypi.org/resources",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/raspberrypi/documentation.git"
+  },
+  "author": "The Raspberry Pi Foundation (https://www.raspberrypi.org)",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/raspberrypi/documentation/issues"
+  },
+  "homepage": "https://www.raspberrypi.org/documentation"
+}
